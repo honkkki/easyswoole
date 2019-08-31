@@ -1,0 +1,3 @@
+[2019-07-11 13:48:05 *30541.5]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 213 byte failed, because connection[fd=2] is closed
+[2019-08-31 14:46:16 *21885.4]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 144 byte failed, because connection[fd=1] is closed
+[2019-08-31 14:51:57 *23033.4]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 144 byte failed, because connection[fd=1] is closed
